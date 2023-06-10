@@ -1,1 +1,3 @@
-# Artificial-intelligence-assginment-2023
+# 2023 인공지능 과제
+
+코랩으로 실행함
